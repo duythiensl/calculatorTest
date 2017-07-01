@@ -1,6 +1,6 @@
 function Calculator(){}
 function  Prosses(){
-    oprs = {
+    var oprs = {
         '+':function(x,y){
             return x + y;
         },
